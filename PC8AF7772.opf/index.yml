@@ -1,16 +1,11 @@
-id: 58303da473e2462d9786d76aa4bc9bf4
+id: 0dab1e6089f04e69bbaac2989b6be631
 annotation_type: index
 revision: '00001'
 annotations:
-  7c1b2cda3ca74d6b9f5b881a2dbb1fcf:
+  d99d73162ec14190973100afdb6ea2c0:
     parts: {}
     span:
     - vol: 1
-<<<<<<< HEAD
-      start: 1
-      end: 1663
-=======
       start: 0
-      end: 1668
->>>>>>> 2f74248eaddf6ef62759da8fb5e5fcad2fe10c31
+      end: 1669
     work_id: N0853
